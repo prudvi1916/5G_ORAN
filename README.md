@@ -1,4 +1,4 @@
-# 5G_ORAN gnn rhg ah ahn atn strh atnn tnmc mtnte brhn
+# 5G_ORAN gnn rhg ah ahn atn strh atnn tnmc mtnte brhn gna
 Developing 5G Private Network
 # **5G ORAN Development using USRP N321 and srsRAN**
 
