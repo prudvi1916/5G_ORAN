@@ -1,4 +1,4 @@
-# 5G_ORAN hent ath tn abn gfbb ggn fsgn 
+# 5G_ORAN hent ath tn abn gfbb ggn fsgn  gn g
 Developing 5G Private Network
 # **5G ORAN Development using USRP N321 and srsRAN**
 
